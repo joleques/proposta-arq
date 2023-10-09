@@ -1,29 +1,40 @@
-# Definição
+# Introdução
 
-A arquitetura aqui proposta é fortemente influenciada por princípios derivados de duas abordagens arquiteturais distintas: a Arquitetura Limpa e a Arquitetura Hexagonal, alem de Domain-Driven Design (DDD). Essas influências combinam-se para criar um sistema que é modular, desacoplado, altamente testável e orientado pelo domínio.
+O desenvolvimento de software é uma área que evolui constantemente, buscando aprimorar seus métodos e práticas para atender às crescentes demandas da indústria de tecnologia. Nesse contexto, o presente projeto tem como objetivo principal a definição de um desenvolvimento de software voltada para casos de uso, acompanhada da proposição de uma arquitetura integrada que ofereça suporte eficiente a essa metodologia. Essa abordagem visa melhorar a eficiência, a qualidade e a agilidade no processo de desenvolvimento de software, promovendo um alinhamento mais próximo com as necessidades dos usuários finais e, consequentemente, a satisfação do cliente.
 
-## Influência da Arquitetura Limpa
+## Desenvolvimento de Software Orientada a Casos de Uso
 
-A Arquitetura Limpa, proposta por Robert C. Martin, estabelece a separação de preocupações em camadas bem definidas e a dependência unidirecional entre essas camadas. Isso promove a manutenibilidade, flexibilidade e escalabilidade do sistema. Nossa arquitetura adota os seguintes princípios da Arquitetura Limpa:
+O desenvolvimento de software orientada a casos de uso é uma abordagem que se concentra na compreensão das necessidades e requisitos dos usuários finais. Ela utiliza casos de uso como uma ferramenta fundamental para descrever as interações entre o sistema e seus usuários. Os casos de uso permitem uma representação clara e concisa das funcionalidades do software, destacando os principais fluxos de interação. Essa metodologia oferece diversas vantagens:
 
-- Separação de Camadas: O sistema é dividido em camadas bem definidas, cada uma com uma responsabilidade específica. As camadas incluem a camada de domínio, a camada de aplicação,a camada de Adapters e camada de Use Cases.
+- Foco no Usuário: A abordagem de casos de uso mantém o usuário final como o centro do desenvolvimento, garantindo que suas necessidades e expectativas sejam atendidas de forma eficaz.
 
-- Independência de Frameworks e Detalhes de Implementação: A camada de domínio é totalmente independente de frameworks e detalhes de implementação, permitindo que seja reutilizável e portável.
+- Compreensão Profunda: A criação de casos de uso permite uma compreensão detalhada dos requisitos do sistema, facilitando a identificação de funcionalidades críticas.
 
-## Influência da Arquitetura Hexagonal
+- Documentação Clara: Os casos de uso fornecem documentação clara e acessível, que pode ser utilizada para comunicação entre equipes de desenvolvimento e stakeholders.
 
-A Arquitetura Hexagonal, também conhecida como Ports and Adapters, enfatiza a separação das preocupações do núcleo da aplicação e as interações com o mundo externo. Ela introduz o conceito de portas (interfaces) e adaptadores para facilitar a comunicação entre o sistema interno e externo. Nossa arquitetura incorpora as seguintes características da Arquitetura Hexagonal:
+- Testabilidade: A partir dos casos de uso, é possível definir casos de teste que auxiliam na verificação e validação do software.
 
-- Portas e Adaptadores: As portas (interfaces) definem os contratos para a interação com o sistema, enquanto os adaptadores implementam essas portas para conectar o sistema a recursos externos, como bancos de dados, filas e serviços externos.
+## Proposta de Arquitetura Integrada
 
-- Isolamento do Domínio: A camada de domínio é o núcleo da lógica de negócios, isolada de preocupações externas. Ela define entidades, agregados e regras de negócios, garantindo que o domínio seja puro e independente de considerações externas.
+Para dar suporte eficiente ao desenvolvimento de software orientada a casos de uso, propomos a adoção de uma arquitetura integrada. Essa arquitetura é projetada com o intuito de:
 
-## Influência do Domain-Driven Design (DDD)
+- Integração de Ferramentas: Facilitar a integração de ferramentas específicas para criação, gestão e documentação de casos de uso no ambiente de desenvolvimento.
 
-O Domain-Driven Design (DDD) é uma abordagem que coloca o domínio de negócios no centro do desenvolvimento de software. Ele promove a modelagem rica do domínio e o uso de linguagem ubíqua para garantir que a implementação do sistema reflita com precisão o mundo real. Nossa arquitetura incorpora os seguintes princípios do DDD:
+- Modelagem de Dados: Fornecer recursos para a modelagem de dados que estejam alinhados com os casos de uso, garantindo a consistência das informações.
 
-- Modelagem do Domínio: A camada de domínio é responsável por modelar conceitos do mundo real, incluindo entidades, agregados e objetos de valor, refletindo fielmente o domínio de negócios.
+- Gestão de Requisitos: Permitir a rastreabilidade dos requisitos a partir dos casos de uso, assegurando que todos os requisitos estejam atendidos.
 
-- Regras de Negócios Centrais: As regras de negócios essenciais são encapsuladas na camada de domínio, garantindo que a lógica de negócios seja o foco central do sistema.
+- Colaboração em Equipe: Possibilitar a colaboração eficiente entre os membros da equipe de desenvolvimento, permitindo a revisão e aprimoramento contínuo dos casos de uso.
 
-Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
+## Conclusão
+
+Em resumo, este projeto busca proporcionar um desenvolvimento de software orientada a casos de uso, aliada a uma arquitetura integrada, que potencialize a eficiência, qualidade e agilidade no processo de desenvolvimento de software. Ao adotar essa abordagem, as organizações poderão focar suas energias em atender às necessidades reais dos usuários finais, melhorando a satisfação do cliente e fortalecendo sua posição no mercado competitivo da tecnologia da informação. A integração entre a metodologia e a arquitetura propostas promete revolucionar a maneira como os projetos de desenvolvimento de software são conduzidos, tornando-os mais alinhados com as expectativas dos clientes e mais eficientes em termos de recursos e tempo.
+
+## Sumário
+
+- [Metodológia](7-metodologia.md)
+- [Arquitetura](8-definicao_arq.md)
+    - [Application](2-application.md)
+    - [Use Case](3-use_case.md)
+    - [Infrastructure](4-infra.md)
+    - [Domain](5-domain.md)
