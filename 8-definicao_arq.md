@@ -30,7 +30,11 @@ Em resumo, a arquitetura baseada nessas influências busca criar um sistema que 
 
 A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação, responsável pela interação com os clientes; a Camada de Casos de Uso, que contém a lógica de negócios; a Camada de Adapters, que facilita a comunicação com o mundo externo; e a Camada de Domínio, onde as regras de negócios centrais e a modelagem de domínio são definidas. Essas camadas colaboram para criar um sistema modular, bem organizado e altamente adaptável, promovendo a clareza na separação de responsabilidades e facilitando a manutenção e escalabilidade do sistema.
 
-![Arquitetura](img/arq_macro.png)
+
+<div align="center">
+  <img src="img/arq_macro.png" alt="Arquitetura">
+</div>
+
 
 ## Sumário
 
