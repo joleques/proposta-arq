@@ -1,4 +1,4 @@
-# Adapters
+# Infrastructure
 
 ## Resumo
 
