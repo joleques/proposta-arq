@@ -34,7 +34,3 @@ Em resumo, este projeto busca proporcionar um desenvolvimento de software orient
 
 - [Metodológia](7-metodologia.md)
 - [Arquitetura](8-definicao_arq.md)
-    - [Application](2-application.md)
-    - [Use Case](3-use_case.md)
-    - [Infrastructure](4-infra.md)
-    - [Domain](5-domain.md)
