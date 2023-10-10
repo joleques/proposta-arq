@@ -6,7 +6,7 @@ A arquitetura aqui proposta é fortemente influenciada por princípios derivados
 
 A Arquitetura Limpa, proposta por Robert C. Martin, estabelece a separação de preocupações em camadas bem definidas e a dependência unidirecional entre essas camadas. Isso promove a manutenibilidade, flexibilidade e escalabilidade do sistema. Nossa arquitetura adota os seguintes princípios da Arquitetura Limpa:
 
-- Separação de Camadas: O sistema é dividido em camadas bem definidas, cada uma com uma responsabilidade específica. As camadas incluem a camada de domínio, a camada de aplicação,a camada de Adapters e camada de Use Cases.
+- Separação de Camadas: O sistema é dividido em camadas bem definidas, cada uma com uma responsabilidade específica. As camadas incluem a camada de domínio, a camada de aplicação,a camada de Infraestrutura e camada de Use Cases.
 
 - Independência de Frameworks e Detalhes de Implementação: A camada de domínio é totalmente independente de frameworks e detalhes de implementação, permitindo que seja reutilizável e portável.
 
@@ -28,7 +28,7 @@ O Domain-Driven Design (DDD) é uma abordagem que coloca o domínio de negócios
 
 Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
 
-A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação, responsável pela interação com os clientes; a Camada de Casos de Uso, que contém a lógica de negócios; a Camada de Adapters, que facilita a comunicação com o mundo externo; e a Camada de Domínio, onde as regras de negócios centrais e a modelagem de domínio são definidas. Essas camadas colaboram para criar um sistema modular, bem organizado e altamente adaptável, promovendo a clareza na separação de responsabilidades e facilitando a manutenção e escalabilidade do sistema.
+A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação, responsável pela interação com os clientes; a Camada de Casos de Uso, que contém o fluxo do negócio; a Camada de Infraestrutura, que facilita a comunicação com o mundo externo; e a Camada de Domínio, onde as regras de negócios centrais e a modelagem de domínio são definidas. Essas camadas colaboram para criar um sistema modular, bem organizado e altamente adaptável, promovendo a clareza na separação de responsabilidades e facilitando a manutenção e escalabilidade do sistema.
 
 
 <div align="center">
