@@ -1,4 +1,4 @@
-# Metodologia
+# Definição
 
 Desenvolver um software eficiente e de alta qualidade é uma tarefa complexa que exige uma abordagem estruturada e bem planejada. Para isso, é essencial seguir uma metodologia que ajude a equipe de desenvolvimento a compreender as necessidades do cliente, definir conceitos de negócios essenciais e criar uma base sólida para o desenvolvimento. Nesse contexto, nossa metodologia de desenvolvimento de software está dividida em cinco etapas cruciais para o sucesso do projeto.
 
