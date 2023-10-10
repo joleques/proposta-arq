@@ -18,9 +18,11 @@ Na terceira etapa, nos concentramos na análise de casos de uso da aplicação. 
 
 Após identificar os casos de uso mais importantes, na quarta etapa, nos aprofundamos na modelagem de fluxos de trabalho. Aqui, buscamos entender como os processos dentro do software se desenrolarão. Essa etapa é crucial, pois pode resultar na identificação de novos conceitos ou na necessidade de ajustar conceitos existentes, enriquecendo assim nosso domínio de conhecimento e garantindo que os processos sejam eficientes e lógicos.
 
-# Etapa 5: Desenvolvimento e Arquitetura Padrão
+## Etapa 5: Desenvolvimento e Arquitetura Padrão
 
-Finalmente, chegamos à quinta etapa, onde iniciamos o desenvolvimento do software com base nos casos de uso identificados e nos conceitos estabelecidos. Nesta fase, é essencial seguir uma arquitetura padrão previamente definida para garantir consistência e eficiência no desenvolvimento. Isso inclui a seleção de tecnologias, a estruturação do código e a implementação das funcionalidades de acordo com as especificações previamente estabelecidas.
+Finalmente, chegamos à quinta etapa, onde iniciamos o desenvolvimento do software com base nos casos de uso identificados e nos conceitos estabelecidos. Nesta fase, é essencial seguir uma [arquitetura padrão](8-definicao_arq.md) previamente definida para garantir consistência e eficiência no desenvolvimento. Isso inclui a seleção de tecnologias, a estruturação do código e a implementação das funcionalidades de acordo com as especificações previamente estabelecidas.
+
+## Conclusão 
 
 O processo de desenvolvimento se baseia em entregas contínuas com entregáveis alinhados com o cliente, que possuem valor de negócio para ele. Isso significa que ao longo de todo o projeto, estamos entregando partes do software que o cliente pode testar e usar, permitindo ajustes e refinamentos conforme necessário. Todas as etapas são reavaliadas continuamente para garantir que estamos sempre no caminho certo, alinhados com as necessidades e expectativas do cliente.
 
