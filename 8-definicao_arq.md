@@ -34,12 +34,3 @@ A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação
 <div align="center">
   <img src="img/arq_macro.png" alt="Arquitetura">
 </div>
-
-
-## Sumário
-
-- [Camadas](.)
-    - [Application](2-application.md)
-    - [Use Case](3-use_case.md)
-    - [Infrastructure](4-infra.md)
-    - [Domain](5-domain.md)
