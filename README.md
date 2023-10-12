@@ -1,14 +1,14 @@
 # Sumário
 
 - [Introdução](README.md)..........................................1
-- [Metodológia](7-metodologia.md)..................................2
-- [Arquitetura](8-definicao_arq.md)................................3
+- [Metodológia](7-metodologia.md).......................................2
+- [Arquitetura](8-definicao_arq.md).........................................3
     - [Application](2-application.md)..............................4
-    - [Use Case](3-use_case.md)....................................5
-    - [Infrastructure](4-infra.md).................................6
-    - [Domain](5-domain.md)........................................7
+    - [Use Case](3-use_case.md)...................................5
+    - [Infrastructure](4-infra.md)..........................6
+    - [Domain](5-domain.md)......................................7
 
-    
+
 
 # Introdução
 
