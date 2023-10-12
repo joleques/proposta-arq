@@ -14,7 +14,8 @@
     - Especificar os códigos de status das respostas.
     - Acessar uma lista de todos os endpoints que você configurou.
     - Buscar informações específicas sobre um endpoint, desde que você conheça o alias associado a ele.
-    - Cliente: Perfeito, isso resolve meu problema. E quanto aos relatórios de chamadas que vocês mencionaram?
+
+- Cliente: Perfeito, isso resolve meu problema. E quanto aos relatórios de chamadas que vocês mencionaram?
 
 - Desenvolvedor 1: Além disso, a API permitirá que você gere relatórios de chamadas que contenham registros de todas as chamadas feitas aos seus endpoints fictícios. Você também poderá buscar informações específicas nessas chamadas, o que será útil para análises e depuração.
 
