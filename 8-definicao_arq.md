@@ -26,6 +26,8 @@ O Domain-Driven Design (DDD) é uma abordagem que coloca o domínio de negócios
 
 - Regras de Negócios Centrais: As regras de negócios essenciais são encapsuladas na camada de domínio, garantindo que a lógica de negócios seja o foco central do sistema.
 
+## Conclusão
+
 Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
 
 A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação, responsável pela interação com os clientes; a Camada de Casos de Uso, que contém o fluxo do negócio; a Camada de Infraestrutura, que facilita a comunicação com o mundo externo; e a Camada de Domínio, onde as regras de negócios centrais e a modelagem de domínio são definidas. Essas camadas colaboram para criar um sistema modular, bem organizado e altamente adaptável, promovendo a clareza na separação de responsabilidades e facilitando a manutenção e escalabilidade do sistema.
