@@ -1,3 +1,15 @@
+# Sumário
+
+- [Introdução](README.md)..........................................1
+- [Metodológia](7-metodologia.md)..................................2
+- [Arquitetura](8-definicao_arq.md)................................3
+    - [Application](2-application.md)..............................4
+    - [Use Case](3-use_case.md)....................................5
+    - [Infrastructure](4-infra.md).................................6
+    - [Domain](5-domain.md)........................................7
+
+    
+
 # Introdução
 
 O desenvolvimento de software é uma área que evolui constantemente, buscando aprimorar seus métodos e práticas para atender às crescentes demandas da indústria de tecnologia. Nesse contexto, o presente projeto tem como objetivo principal a definição de um desenvolvimento de software voltada para casos de uso, acompanhada da proposição de uma arquitetura integrada que ofereça suporte eficiente a essa metodologia. Essa abordagem visa melhorar a eficiência, a qualidade e a agilidade no processo de desenvolvimento de software, promovendo um alinhamento mais próximo com as necessidades dos usuários finais e, consequentemente, a satisfação do cliente.
@@ -30,7 +42,3 @@ Para dar suporte eficiente ao desenvolvimento de software orientada a casos de u
 
 Em resumo, este projeto busca proporcionar um desenvolvimento de software orientada a casos de uso, aliada a uma arquitetura integrada, que potencialize a eficiência, qualidade e agilidade no processo de desenvolvimento de software. Ao adotar essa abordagem, as organizações poderão focar suas energias em atender às necessidades reais dos usuários finais, melhorando a satisfação do cliente e fortalecendo sua posição no mercado competitivo da tecnologia da informação. A integração entre a metodologia e a arquitetura propostas promete revolucionar a maneira como os projetos de desenvolvimento de software são conduzidos, tornando-os mais alinhados com as expectativas dos clientes e mais eficientes em termos de recursos e tempo.
 
-## Sumário
-
-- [Metodológia](7-metodologia.md)
-- [Arquitetura](8-definicao_arq.md)
