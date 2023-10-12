@@ -6,9 +6,13 @@ Desenvolver um software eficiente e de alta qualidade é uma tarefa complexa que
 
 A primeira etapa do processo é o levantamento de requisitos. Aqui, trabalhamos em estreita colaboração com o cliente para entender suas necessidades. Isso envolve a identificação de requisitos funcionais (o que o software deve fazer) e requisitos não funcionais (como o software deve funcionar). Este é o estágio em que construímos a base do projeto, entendendo completamente as expectativas e os objetivos do cliente.
 
+- [Exemplo de Levantamento de Requisitos](7-meto-req-dialogo.md)
+
 ## Etapa 2: Definição de Linguagem Ubíqua e Contextos de Negócio
 
 Uma vez que tenhamos uma compreensão clara dos requisitos, avançamos para a segunda etapa, que é a definição de uma "linguagem ubíqua" em conjunto com o cliente. Isso envolve a criação de um conjunto de conceitos e terminologias que todos na equipe e no cliente compreendem claramente. Além disso, exploramos o negócio em profundidade, distinguindo entre o que é considerado o "core" (a parte mais essencial do serviço) e os "contextos auxiliares" (aquilo que auxilia o core a atingir seus objetivos). Isso é crucial para alinhar as expectativas,focar no que realmente importa e na identificação de possiveis serviços da applicação.
+
+- [Exemplo](7-meto-req-ubqua.md)
 
 ## Etapa 3: Análise de Casos de Uso
 
