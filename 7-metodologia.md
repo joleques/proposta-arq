@@ -12,15 +12,19 @@ A primeira etapa do processo é o levantamento de requisitos. Aqui, trabalhamos 
 
 Uma vez que tenhamos uma compreensão clara dos requisitos, avançamos para a segunda etapa, que é a definição de uma "linguagem ubíqua" em conjunto com o cliente. Isso envolve a criação de um conjunto de conceitos e terminologias que todos na equipe e no cliente compreendem claramente. Além disso, exploramos o negócio em profundidade, distinguindo entre o que é considerado o "core" (a parte mais essencial do serviço) e os "contextos auxiliares" (aquilo que auxilia o core a atingir seus objetivos). Isso é crucial para alinhar as expectativas,focar no que realmente importa e na identificação de possiveis serviços da applicação.
 
-- [Exemplo](7-meto-req-ubqua.md)
+- [Montando Linguagem Unica](7-meto-req-ubqua.md)
+- [Levantando os Conceitos](7-meto-conceitos.md)
 
 ## Etapa 3: Análise de Casos de Uso
 
 Na terceira etapa, nos concentramos na análise de casos de uso da aplicação. Isso significa que examinamos em detalhes quais ações a aplicação deve realizar. Essa análise envolve a compreensão das diferentes funcionalidades que o software deve oferecer e como ele será usado pelos usuários. É uma fase de refinamento onde traduzimos os requisitos em cenários de uso práticos.
 
+- [Exemplo](7-meto-casos-uso.md)
+
 ## Etapa 4: Modelagem de Fluxos e Novos Conceitos
 
 Após identificar os casos de uso mais importantes, na quarta etapa, nos aprofundamos na modelagem de fluxos de trabalho. Aqui, buscamos entender como os processos dentro do software se desenrolarão. Essa etapa é crucial, pois pode resultar na identificação de novos conceitos ou na necessidade de ajustar conceitos existentes, enriquecendo assim nosso domínio de conhecimento e garantindo que os processos sejam eficientes e lógicos.
+
 
 ## Etapa 5: Desenvolvimento e Arquitetura Padrão
 
