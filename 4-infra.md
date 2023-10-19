@@ -24,8 +24,6 @@ Aqui estão exemplos de Adapters como portas de saída em uma arquitetura hexago
 
 - Adapter de Fila: Publica mensagens em uma fila de mensagens, garantindo que eventos sejam entregues a consumidores interessados.
 
-- Adapter do Kafka: Envia eventos para tópicos no Kafka, permitindo a disseminação assíncrona de informações para sistemas que consomem esses tópicos.
-
 - Adapter de Comunicação Externa HTTP/gRPC: Facilita a comunicação com serviços externos, seja por meio de chamadas HTTP RESTful ou gRPC, traduzindo as solicitações e respostas conforme necessário.
 
 - Adapter de Armazenamento em Nuvem: Pode ser usado para interagir com serviços de armazenamento em nuvem, como Amazon S3 ou Google Cloud Storage, para upload e recuperação de arquivos.

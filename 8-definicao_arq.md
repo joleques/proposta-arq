@@ -10,6 +10,8 @@ A Arquitetura Limpa, proposta por Robert C. Martin, estabelece a separação de 
 
 - Independência de Frameworks e Detalhes de Implementação: A camada de domínio é totalmente independente de frameworks e detalhes de implementação, permitindo que seja reutilizável e portável.
 
+- Mapeamento de Casos de Uso: Os Casos de Uso são mapeados para componentes na arquitetura, garantindo que as funcionalidades do sistema estejam claramente definidas e relacionadas com a arquitetura.
+
 ## Influência da Arquitetura Hexagonal
 
 A Arquitetura Hexagonal, também conhecida como Ports and Adapters, enfatiza a separação das preocupações do núcleo da aplicação e as interações com o mundo externo. Ela introduz o conceito de portas (interfaces) e adaptadores para facilitar a comunicação entre o sistema interno e externo. Nossa arquitetura incorpora as seguintes características da Arquitetura Hexagonal:

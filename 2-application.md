@@ -24,7 +24,7 @@ Aqui estão alguns exemplos de elementos comuns que fazem parte da camada de apl
 
 - Consumidores de Filas: Quando o serviço precisa processar mensagens de uma fila de mensagens, os consumidores de filas na camada de aplicação lidam com a recepção dessas mensagens e a coordenação com as partes relevantes do sistema.
 
-- Consumidores do Kafka: Se o sistema utiliza o Kafka para troca de mensagens, os consumidores do Kafka na camada de aplicação garantem que os eventos sejam processados e encaminhados para o processamento adequado.
+- Consumidores de Stream: Se o sistema utiliza um Stream para troca de mensagens, os consumidores do Stream na camada de aplicação garantem que os eventos sejam processados e encaminhados para o processamento adequado.
 
 - Apresentadores (Presenters): Encarregados de formatar os resultados dos casos de uso de maneira adequada para apresentação ou resposta ao cliente.
 
