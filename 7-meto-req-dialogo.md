@@ -70,3 +70,6 @@ O objetivo deste projeto é desenvolver uma API fictícia que permitirá aos usu
 - Escalabilidade: O sistema deve ser capaz de lidar com um aumento significativo na carga de trabalho.
 - Alta Disponibilidade: O sistema deve estar disponível de forma consistente e confiável.
 - Consistência: Garantiremos que os dados sejam consistentes e estejam disponíveis quando necessários.
+
+- [Voltar](7-metodologia.md)
+- [Próximo](7-meto-req-ubqua.md)
