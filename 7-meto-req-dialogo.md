@@ -10,13 +10,13 @@ A seguir, um diálogo entre a equipe de desenvolvimento e o cliente com o objeti
 
 # Exemplo
 
-- Cliente: Time, estou enfrentando um desafio com as integrações dos meus clientes. Atualmente, estou dependendo que eles forneçam um endpoint de teste para que eu possa realizar minhas integrações. Isso está atrasando o meu progresso e gostaria de uma solução para simular esses endpoints dos nossos clientes. Como vocês podem me ajudar nisso?
+- ***Cliente:*** Time, estou enfrentando um desafio com as integrações dos meus clientes. Atualmente, estou dependendo que eles forneçam um endpoint de teste para que eu possa realizar minhas integrações. Isso está atrasando o meu progresso e gostaria de uma solução para simular esses endpoints dos nossos clientes. Como vocês podem me ajudar nisso?
 
-- Desenvolvedor 1: Entendi, você está buscando uma solução que permita simular os endpoints dos nossos clientes para que você possa testar suas integrações sem depender deles. Estamos prontos para criar uma API fictícia que atenderá a essa necessidade. Ela permitirá que você configure e gerencie endpoints de teste, especificando respostas, códigos de status e outros detalhes. Isso deve ajudar a acelerar seus testes.
+- ***Desenvolvedor 1:*** Entendi, você está buscando uma solução que permita simular os endpoints dos nossos clientes para que você possa testar suas integrações sem depender deles. Estamos prontos para criar uma API fictícia que atenderá a essa necessidade. Ela permitirá que você configure e gerencie endpoints de teste, especificando respostas, códigos de status e outros detalhes. Isso deve ajudar a acelerar seus testes.
 
-- Cliente: Isso mesmo! Estou feliz em ouvir que vocês podem desenvolver essa API fictícia para mim. Mas quais funcionalidades exatamente essa API terá?
+- ***Cliente:*** Isso mesmo! Estou feliz em ouvir que vocês podem desenvolver essa API fictícia para mim. Mas quais funcionalidades exatamente essa API terá?
 
-- Desenvolvedor 2: A API fictícia que estamos criando permitirá que você faça o seguinte:
+- ***Desenvolvedor 2:*** A API fictícia que estamos criando permitirá que você faça o seguinte:
     - Cadastrar endpoints fictícios.
     - Editar as configurações desses endpoints.
     - Excluir endpoints fictícios quando não forem mais necessários.
@@ -25,19 +25,19 @@ A seguir, um diálogo entre a equipe de desenvolvimento e o cliente com o objeti
     - Acessar uma lista de todos os endpoints que você configurou.
     - Buscar informações específicas sobre um endpoint, desde que você conheça o alias associado a ele.
 
-- Cliente: Perfeito, isso resolve meu problema. E quanto aos relatórios de chamadas que vocês mencionaram?
+- ***Cliente:*** Perfeito, isso resolve meu problema. E quanto aos relatórios de chamadas que vocês mencionaram?
 
-- Desenvolvedor 1: Além disso, a API permitirá que você gere relatórios de chamadas que contenham registros de todas as chamadas feitas aos seus endpoints fictícios. Você também poderá buscar informações específicas nessas chamadas, o que será útil para análises e depuração.
+- ***Desenvolvedor 1:*** Além disso, a API permitirá que você gere relatórios de chamadas que contenham registros de todas as chamadas feitas aos seus endpoints fictícios. Você também poderá buscar informações específicas nessas chamadas, o que será útil para análises e depuração.
 
-- Cliente: Ótimo! E quais métodos HTTP essa API fictícia suportará?
+- ***Cliente:*** Ótimo! E quais métodos HTTP essa API fictícia suportará?
 
-- Desenvolvedor 2: Os consumidores da API fictícia poderão utilizar os métodos POST, PUT, PATCH e DELETE para interagir com os endpoints fictícios que você configurar.
+- ***Desenvolvedor 2:*** Os consumidores da API fictícia poderão utilizar os métodos POST, PUT, PATCH e DELETE para interagir com os endpoints fictícios que você configurar.
 
-- Cliente: Isso soa excelente! Agora, quais são os detalhes técnicos que devo saber sobre essa API?
+- ***Cliente:*** Isso soa excelente! Agora, quais são os detalhes técnicos que devo saber sobre essa API?
 
-- Desenvolvedor 1: Para garantir um ótimo desempenho, estamos projetando a API para operações de leitura mais frequentes do que de escrita. Além disso, a API será escalável para lidar com um grande volume de solicitações, oferecerá alta disponibilidade para que você possa acessá-la de forma confiável e garantirá a consistência dos dados, para que suas configurações estejam sempre disponíveis quando você precisar delas.
+- ***Desenvolvedor 1:*** Para garantir um ótimo desempenho, estamos projetando a API para operações de leitura mais frequentes do que de escrita. Além disso, a API será escalável para lidar com um grande volume de solicitações, oferecerá alta disponibilidade para que você possa acessá-la de forma confiável e garantirá a consistência dos dados, para que suas configurações estejam sempre disponíveis quando você precisar delas.
 
-- Cliente: Excelente! Estou satisfeito com esses detalhes. Vamos seguir em frente com o desenvolvimento da API fictícia. Obrigado, equipe de desenvolvimento, por ajudar a resolver meu problema!
+- ***Cliente:*** Excelente! Estou satisfeito com esses detalhes. Vamos seguir em frente com o desenvolvimento da API fictícia. Obrigado, equipe de desenvolvimento, por ajudar a resolver meu problema!
 
 
 Através do diálogo estabelecido entre nossa equipe e o cliente, conseguimos criar os requisitos fundamentais do projeto. Abaixo, apresentamos esses requisitos para que vocês possam compreender com clareza o direcionamento do projeto.
@@ -72,4 +72,3 @@ O objetivo deste projeto é desenvolver uma API fictícia que permitirá aos usu
 - Consistência: Garantiremos que os dados sejam consistentes e estejam disponíveis quando necessários.
 
 - [Voltar](7-metodologia.md)
-- [Próximo](7-meto-req-ubqua.md)
