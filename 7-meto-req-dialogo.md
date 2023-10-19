@@ -1,3 +1,13 @@
+# Levantamento de Requisitos
+
+A primeira etapa do processo de desenvolvimento de software é o "Levantamento de Requisitos". Nesta fase inicial e crucial, a equipe de desenvolvimento se concentra em entender completamente as necessidades e expectativas do cliente. Isso envolve uma estreita colaboração com o cliente para identificar e documentar os requisitos do software. Existem dois tipos principais de requisitos que são abordados: os ***funcionais*** e os ***não funcionais***. Os requisitos funcionais definem o que o software deve fazer, ou seja, suas funcionalidades e recursos, enquanto os requisitos não funcionais especificam como o software deve funcionar, considerando aspectos como desempenho, segurança e usabilidade.
+
+Nesta etapa, a equipe se esforça para construir uma base sólida para o projeto, garantindo que todos os membros compreendam claramente as necessidades do cliente. A comunicação eficaz com o cliente desempenha um papel fundamental, pois é crucial para evitar mal-entendidos e garantir que as expectativas sejam alinhadas. O resultado desse levantamento de requisitos é um documento detalhado que serve como referência ao longo do projeto, ajudando a equipe a manter o foco nas metas e objetivos do cliente.
+
+Em resumo, a primeira etapa do desenvolvimento de software é fundamental para estabelecer as bases do projeto, compreender as necessidades do cliente e garantir que todos os envolvidos tenham uma visão clara do que o software deve realizar. Isso ajuda a evitar problemas e retrabalhos no decorrer do projeto, contribuindo para o desenvolvimento de um software eficiente e de alta qualidade.
+
+A seguir, um diálogo entre a equipe de desenvolvimento e o cliente com o objetivo de compreender as necessidades do cliente.
+
 # Exemplo
 
 - Cliente: Time, estou enfrentando um desafio com as integrações dos meus clientes. Atualmente, estou dependendo que eles forneçam um endpoint de teste para que eu possa realizar minhas integrações. Isso está atrasando o meu progresso e gostaria de uma solução para simular esses endpoints dos nossos clientes. Como vocês podem me ajudar nisso?

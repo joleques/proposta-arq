@@ -6,7 +6,7 @@ Desenvolver um software eficiente e de alta qualidade é uma tarefa complexa que
 
 A primeira etapa do processo é o levantamento de requisitos. Aqui, trabalhamos em estreita colaboração com o cliente para entender suas necessidades. Isso envolve a identificação de requisitos funcionais (o que o software deve fazer) e requisitos não funcionais (como o software deve funcionar). Este é o estágio em que construímos a base do projeto, entendendo completamente as expectativas e os objetivos do cliente.
 
-- [Exemplo de Levantamento de Requisitos](7-meto-req-dialogo.md)
+- [Mais...](7-meto-req-dialogo.md)
 
 ## Etapa 2: Definição de Linguagem Ubíqua e Contextos de Negócio
 
