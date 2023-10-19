@@ -117,5 +117,8 @@ Com este glossário de linguagem ubíqua, todos os membros da equipe terão uma 
 
 - ***Catalogo de Integração:*** É o conjunto dos Registro de Interações.
 
+<div align="center">
+  <img src="img/contextos_negocio.png" alt="Contextos">
+</div>
 
 - [Voltar](7-metodologia.md)
