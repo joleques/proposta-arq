@@ -1,6 +1,6 @@
 # Definição
 
-Desenvolver um software eficiente e de alta qualidade é uma tarefa complexa que exige uma abordagem estruturada e bem planejada. Para isso, é essencial seguir uma metodologia que ajude a equipe de desenvolvimento a compreender as necessidades do cliente, definir conceitos de negócios essenciais e criar uma base sólida para o desenvolvimento. Nesse contexto, nossa metodologia de desenvolvimento de software está dividida em cinco etapas cruciais para o sucesso do projeto.
+Desenvolver um software eficiente e de alta qualidade é uma tarefa complexa que exige uma abordagem estruturada e bem planejada. Para isso, é essencial seguir uma metodologia que ajude a equipe de desenvolvimento a compreender as necessidades do cliente, definir conceitos de negócios essenciais e criar uma base sólida para o desenvolvimento. Nesse contexto, nossa metodologia de desenvolvimento de software está dividida em quatro etapas cruciais para o sucesso do projeto.
 
 ## Etapa 1: Levantamento de Requisitos
 
@@ -18,16 +18,11 @@ Uma vez que tenhamos uma compreensão clara dos requisitos, avançamos para a se
 
 Na terceira etapa, nos concentramos na análise de casos de uso da aplicação. Isso significa que examinamos em detalhes quais ações a aplicação deve realizar. Essa análise envolve a compreensão das diferentes funcionalidades que o software deve oferecer e como ele será usado pelos usuários. É uma fase de refinamento onde traduzimos os requisitos em cenários de uso práticos.
 
-- [Exemplo](7-meto-casos-uso.md)
+- [Mais...](7-meto-etapa-3.md)
 
-## Etapa 4: Modelagem de Fluxos e Novos Conceitos
+## Etapa 4: Desenvolvimento e Arquitetura Padrão
 
-Após identificar os casos de uso mais importantes, na quarta etapa, nos aprofundamos na modelagem de fluxos de trabalho. Aqui, buscamos entender como os processos dentro do software se desenrolarão. Essa etapa é crucial, pois pode resultar na identificação de novos conceitos ou na necessidade de ajustar conceitos existentes, enriquecendo assim nosso domínio de conhecimento e garantindo que os processos sejam eficientes e lógicos.
-
-
-## Etapa 5: Desenvolvimento e Arquitetura Padrão
-
-Finalmente, chegamos à quinta etapa, onde iniciamos o desenvolvimento do software com base nos casos de uso identificados e nos conceitos estabelecidos. Nesta fase, é essencial seguir uma [arquitetura padrão](8-definicao_arq.md) previamente definida para garantir consistência e eficiência no desenvolvimento. Isso inclui a seleção de tecnologias, a estruturação do código e a implementação das funcionalidades de acordo com as especificações previamente estabelecidas.
+Finalmente, chegamos à quarta etapa, onde iniciamos o desenvolvimento do software com base nos casos de uso identificados e nos conceitos estabelecidos. Nesta fase, é essencial seguir uma [arquitetura padrão](8-definicao_arq.md) previamente definida para garantir consistência e eficiência no desenvolvimento. Isso inclui a seleção de tecnologias, a estruturação do código e a implementação das funcionalidades de acordo com as especificações previamente estabelecidas.
 
 ## Conclusão 
 
