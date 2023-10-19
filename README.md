@@ -47,7 +47,7 @@ Em resumo, este projeto busca proporcionar um desenvolvimento de software orient
 
 ## Referências
 
-- [Robert C. Martin, Arquitetura Limpa, O guia do artesão para estrutura e design de software, 2018](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606){target="_blank"}
-- [Vaughn Vernon, Implementando Domain Driven Design, 2016](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577){target="_blank"}
-- [Domain Driven Design Atacando as Complexidades no Coração do Software, 3d, 2016](https://www.amazon.com.br/Domain-driven-design-atacando-complexidades-software/dp/8550800651/ref=asc_df_8550800651/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=10169357866456031260&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102416&hvtargid=pla-809277038576&psc=1){target="_blank"}
-- [COCKBURN, 2005](https://alistair.cockburn.us/coming-soon/){target="_blank"}
+- [Robert C. Martin, Arquitetura Limpa, O guia do artesão para estrutura e design de software, 2018](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
+- [Vaughn Vernon, Implementando Domain Driven Design, 2016](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [Domain Driven Design Atacando as Complexidades no Coração do Software, 3d, 2016](https://www.amazon.com.br/Domain-driven-design-atacando-complexidades-software/dp/8550800651/ref=asc_df_8550800651/?tag=googleshopp00-20&linkCode=df0&hvadid=379739109739&hvpos=&hvnetw=g&hvrand=10169357866456031260&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102416&hvtargid=pla-809277038576&psc=1)
+- [COCKBURN, 2005](https://alistair.cockburn.us/coming-soon/)
