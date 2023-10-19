@@ -30,3 +30,5 @@ Alguns elementos comuns que podem ser encontrados na camada de casos de uso incl
 - Serviços (Services): Pode haver serviços específicos dentro dos casos de uso para realizar tarefas comuns a várias funcionalidades do sistema.
 
 A camada de casos de uso desempenha um papel crítico na organização e coordenação eficaz das operações de negócios em um sistema, garantindo a separação de preocupações e a manutenção de uma arquitetura limpa e coesa.
+
+- [Voltar](8-definicao_arq.md)

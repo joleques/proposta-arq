@@ -29,3 +29,5 @@ Aqui estão exemplos de Adapters como portas de saída em uma arquitetura hexago
 - Adapter de Armazenamento em Nuvem: Pode ser usado para interagir com serviços de armazenamento em nuvem, como Amazon S3 ou Google Cloud Storage, para upload e recuperação de arquivos.
 
 Esses Adapters como portas de saída garantem que o sistema seja capaz de se integrar eficazmente com o mundo externo, tornando possível a persistência de dados, a comunicação assíncrona e a interação com serviços externos de maneira organizada e desacoplada da lógica de negócios central na camada de domínio.
+
+- [Voltar](8-definicao_arq.md)

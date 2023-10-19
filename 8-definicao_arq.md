@@ -28,13 +28,34 @@ O Domain-Driven Design (DDD) é uma abordagem que coloca o domínio de negócios
 
 - Regras de Negócios Centrais: As regras de negócios essenciais são encapsuladas na camada de domínio, garantindo que a lógica de negócios seja o foco central do sistema.
 
-## Conclusão
+## A arquitetura proposta é composta por quatro camadas interconectadas:
 
-Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
+### Camada de Aplicação:
+Esta camada representa a interface direta do sistema com os usuários finais. É responsável por receber as solicitações dos clientes, processá-las e fornecer respostas. Ela atua como um intermediário entre os usuários e as funcionalidades do sistema. Quando uma solicitação é recebida, a Camada de Aplicação a encaminha para a Camada de Casos de Uso, iniciando o fluxo de negócios.
 
-A arquitetura proposta possui quatro camadas principais: a Camada de Aplicação, responsável pela interação com os clientes; a Camada de Casos de Uso, que contém o fluxo do negócio; a Camada de Infraestrutura, que facilita a comunicação com o mundo externo; e a Camada de Domínio, onde as regras de negócios centrais e a modelagem de domínio são definidas. Essas camadas colaboram para criar um sistema modular, bem organizado e altamente adaptável, promovendo a clareza na separação de responsabilidades e facilitando a manutenção e escalabilidade do sistema.
+- [Mais...](2-application.md)
 
+### Camada de Casos de Uso:
+Nesta camada reside o cerne do fluxo do negócios. Ela coordena as operações do sistema, mapeando os diferentes casos de uso. Cada caso de uso representa uma funcionalidade específica do sistema e define como essa funcionalidade é executada. A Camada de Casos de Uso interage com a Camada de Domínio para aplicar as regras de negócios, assegurando que as operações do sistema sejam realizadas de acordo com as necessidades do domínio de negócios. Em conjunto com as outras camadas, essa estrutura oferece modularidade, clareza na separação de responsabilidades e adaptabilidade, tornando o sistema apto a evoluir e escalar de forma eficiente.
+
+- [Mais...](3-use_case.md)
+
+## Camada de Infraestrutura:
+A Camada de Infraestrutura é responsável por facilitar a comunicação do sistema com o mundo exterior. Ela lida com a implementação de adaptadores para interfaces externas, garantindo que o sistema possa se integrar de maneira eficiente com diversos recursos externos, como bancos de dados, serviços de terceiros e sistemas legados. Essa camada trata de detalhes técnicos, como persistência de dados, autenticação e protocolos de comunicação.
+
+- [Mais...](4-infra.md)
+
+## Camada de Domínio:
+Na Camada de Domínio, residem as regras de negócios centrais e a modelagem do domínio do sistema. Ela é responsável por definir entidades, agregados e objetos de valor que representam conceitos do mundo real. Garante que as operações do sistema estejam alinhadas com o domínio de negócios, mantendo a integridade e a consistência dos dados. A Camada de Domínio coloca o foco central no coração do sistema, garantindo que a implementação reflita com precisão o mundo real e as necessidades do negócio. 
+
+- [Mais...](5-domain.md)
 
 <div align="center">
   <img src="img/arq_macro.png" alt="Arquitetura">
 </div>
+
+## Conclusão
+
+Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
+
+- [Voltar](README.md)

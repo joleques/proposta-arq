@@ -35,3 +35,5 @@ Alguns elementos comuns que podem ser encontrados na camada de domínio incluem:
 - Eventos de Domínio: São eventos que representam mudanças de estado importantes no domínio. Eles podem ser usados para notificar outros componentes do sistema sobre eventos significativos.
 
 A camada de domínio é fundamental para garantir que um sistema de software reflita com precisão os requisitos e as regras de negócios do domínio que ele atende. Ela também contribui para a manutenibilidade, flexibilidade e escalabilidade do sistema.
+
+- [Voltar](8-definicao_arq.md)
