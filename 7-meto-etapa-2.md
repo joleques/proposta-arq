@@ -22,7 +22,7 @@ A seguir, um diálogo entre a equipe de desenvolvimento e o cliente com o objeti
 
 - ***Desenvolvedor 1:*** Gostamos da sugestão. "Web Hooks Fakes" é uma escolha clara e precisa. E quanto aos detalhes de cada "Web Hook Fake", como o conteúdo da resposta que pode ser definido?
 
-Cliente:*** Podemos chamar isso de "Especificação de Resposta". Assim, quando falarmos sobre a configuração de um "Web Hook Fake", podemos mencionar a "Especificação de Resposta" que ele deve ter.
+- ***Cliente:*** Podemos chamar isso de "Especificação de Resposta". Assim, quando falarmos sobre a configuração de um "Web Hook Fake", podemos mencionar a "Especificação de Resposta" que ele deve ter.
 
 - ***Desenvolvedor 2:*** "Especificação de Resposta" soa bem. E o código de status HTTP?
 
@@ -43,7 +43,7 @@ Cliente:*** Podemos chamar isso de "Especificação de Resposta". Assim, quando 
 - ***Desenvolvedor 2:*** Perfeito! Acho que agora temos uma linguagem ubíqua sólida para o projeto. Isso tornará nossas comunicações mais claras e eficazes. Obrigado por considerar nossas sugestões, cliente!
 
 
-Aqui está o glossário de linguagem ubíqua para o projeto da API fictícia:
+### Glossário:
 
 - ***Web Hooks Fakes*** - Termo utilizado para se referir aos endpoints fictícios criados para simular os pontos de integração dos clientes.
 
