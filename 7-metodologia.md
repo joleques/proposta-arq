@@ -20,9 +20,11 @@ Na terceira etapa, nos concentramos na análise de casos de uso da aplicação. 
 
 - [Mais...](7-meto-etapa-3.md)
 
-## Etapa 4: Desenvolvimento e Arquitetura Padrão
+## Etapa 4: Desenvolvimento
 
 Finalmente, chegamos à quarta etapa, onde iniciamos o desenvolvimento do software com base nos casos de uso identificados e nos conceitos estabelecidos. Nesta fase, é essencial seguir uma [arquitetura padrão](8-definicao_arq.md) previamente definida para garantir consistência e eficiência no desenvolvimento. Isso inclui a seleção de tecnologias, a estruturação do código e a implementação das funcionalidades de acordo com as especificações previamente estabelecidas.
+
+- [Mais...](7-meto-etapa-4.md)
 
 ## Conclusão 
 
