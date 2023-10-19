@@ -61,6 +61,9 @@ O objetivo deste projeto é desenvolver uma API fictícia que permitirá aos usu
     - Os usuários poderão gerar um relatório contendo todas as chamadas realizadas pelos consumidores da API cadastrada.
     - Os usuários poderão buscar um registro específico no relatório da API cadastrada.
 
+- Consumo:
+    - Serviços poderão consumir API fictícia.
+
 - Métodos HTTP: Os consumidores da API fictícia poderão utilizar os métodos POST, PUT, PATCH e DELETE.
 - Armazenamento de Dados: Todos os dados fornecidos pelos consumidores da API fictícia serão armazenados para consultas futuras, incluindo cabeçalhos, corpos de requisição, métodos, respostas e códigos de status.
 
