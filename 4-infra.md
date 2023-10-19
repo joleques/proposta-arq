@@ -12,8 +12,6 @@ Aqui estão algumas definições essenciais relacionadas aos Adapters como porta
 
 - Publicação em Filas: Adapters de filas lidam com a publicação de mensagens em sistemas de filas, como RabbitMQ ou SQS. Eles garantem que eventos ou mensagens sejam entregues de forma confiável à fila.
 
-- Produção no Kafka: Adapters de produção do Kafka são responsáveis por enviar eventos para tópicos no Kafka, permitindo a disseminação de informações em tempo real para outros sistemas que consomem esses tópicos.
-
 - Comunicação com Serviços Externos: Adapters de comunicação externa permitem que o sistema interaja com serviços externos por meio de protocolos como HTTP ou gRPC. Eles traduzem as solicitações e respostas para garantir a interoperabilidade com esses serviços.
 
 # Exemplos
