@@ -54,6 +54,13 @@ Na Camada de Domínio, residem as regras de negócios centrais e a modelagem do 
   <img src="img/arq_macro.png" alt="Arquitetura">
 </div>
 
+## Obs:
+
+### Componente Shared
+Embora o Componente Shared não seja considerado uma camada distinta, desempenha um papel fundamental na arquitetura, abrigando recursos compartilhados usados tanto pela Camada de Aplicação quanto pela Camada de Infraestrutura com Adapters. Este componente é o ponto central onde funcionalidades comuns, como autenticação, logging, gerenciamento de exceções e utilitários, são centralizados para promover a reutilização de código e a consistência em todo o sistema. Ele atua como um facilitador para garantir que os módulos de aplicação e os adaptadores possam acessar funcionalidades essenciais de maneira consistente, mantendo a integridade e eficiência do sistema. Embora não seja uma camada em si, o Componente Shared desempenha um papel crítico na criação de uma arquitetura organizada e coesa.
+
+- [Mais...](9-shared.md)
+
 ## Conclusão
 
 Em resumo, a arquitetura baseada nessas influências busca criar um sistema que seja modular, desacoplado, com um domínio bem modelado e uma clara separação de responsabilidades entre suas camadas. Isso resulta em um software altamente flexível, testável e alinhado com as necessidades do negócio, garantindo que as preocupações de infraestrutura e detalhes de implementação sejam isoladas das regras de negócios centrais.
