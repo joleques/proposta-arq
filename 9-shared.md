@@ -24,3 +24,5 @@ Alguns exemplos de recursos que podem estar em Shared incluem:
 - Configurações Compartilhadas: Configurações de conexão a bancos de dados, configurações de segurança ou configurações de ambiente que são usadas de forma consistente em todo o sistema.
 
 Shared desempenha um papel fundamental na organização e eficiência do sistema, promovendo a reutilização de código, a padronização e a manutenção eficaz de recursos comuns. Isso contribui para a coesão e a escalabilidade da arquitetura.
+
+- [Voltar](8-definicao_arq.md)
