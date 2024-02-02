@@ -7,7 +7,7 @@ A qualidade no desenvolvimento de software é um aspecto fundamental para garant
 Nosso objetivo é assegurar a qualidade em todas as entregas de nosso projeto de software, utilizando quatro níveis de testes estrategicamente distribuídos ao longo do ciclo de desenvolvimento. Cada nível de teste possui um propósito específico, permitindo uma abordagem abrangente para garantir a qualidade em diferentes aspectos do produto.
 
 <div align="center">
-  <img src="img/arq_macro.png" alt="Arquitetura">
+  <img src="img/testes.png" alt="Diagrama de Testes">
 </div>
 
 ### Descrição dos Níveis de Testes:
