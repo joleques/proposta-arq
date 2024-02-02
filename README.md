@@ -10,6 +10,8 @@
     - [Infrastructure](4-infra.md)
     - [Domain](5-domain.md)
     - [Shared](9-shared.md)
+- [Testes](testes.md.md)
+
 
 
 
