@@ -51,7 +51,7 @@ Na Camada de Domínio, residem as regras de negócios centrais e a modelagem do 
 - [Mais...](5-domain.md)
 
 <div align="center">
-  <img src="img/arq_macro.png" alt="Arquitetura">
+  <img src="img/arq_camadas.png" alt="Arquitetura">
 </div>
 
 ## Obs:
