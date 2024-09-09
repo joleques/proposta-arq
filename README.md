@@ -3,6 +3,7 @@
 ## Sumário
 
 - [Introdução](README.md)
+- [Como Construir um Software Sólido?](software_solido.md)
 - [Metodologia](7-metodologia.md)
 - [Arquitetura](8-definicao_arq.md)
     - [Application](2-application.md)
