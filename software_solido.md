@@ -2,6 +2,10 @@
 
 Para consolidar um software em produção, é fundamental que ele esteja alicerçado em três pilares: estabilidade, maturidade e confiabilidade. Esses conceitos são interdependentes e garantem que o software não apenas atenda às expectativas dos usuários, mas também suporte o crescimento e a inovação contínuos.
 
+<div align="center">
+  <img src="img/pilares_robusto.png" alt="Pilares">
+</div>
+
 ### Estabilidade
 
 Estabilidade é uma das qualidades mais desejáveis em qualquer software, pois garante que o sistema opere de forma consistente e previsível. Um software estável não apresenta falhas graves ou interrupções significativas durante seu uso, proporcionando uma experiência de usuário confiável e sem surpresas. A estabilidade não é apenas sobre evitar bugs, mas também sobre garantir que o software possa evoluir e ser mantido com segurança ao longo do tempo. Para alcançar e manter essa estabilidade, são necessárias práticas de desenvolvimento e testes rigorosos.
