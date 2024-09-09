@@ -1,4 +1,4 @@
-## Como Construir um Software Sólido: Estabilidade, Maturidade e Confiabilidade
+## Estabilidade, Maturidade e Confiabilidade
 
 Para consolidar um software em produção, é fundamental que ele esteja alicerçado em três pilares: estabilidade, maturidade e confiabilidade. Esses conceitos são interdependentes e garantem que o software não apenas atenda às expectativas dos usuários, mas também suporte o crescimento e a inovação contínuos.
 
